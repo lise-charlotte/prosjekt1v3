@@ -6,9 +6,9 @@ body {
   text-align: center;
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: rgb(154, 178, 255);
+  color: rgb(154, 255, 215);
   background-color: white;
-  background-image: url(galaxy.jpg);
+  background-image: url(galaxy2.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
